@@ -10,12 +10,12 @@ Sample project for Data Intergraion/Migration from On-premise to Amazon Cloud (R
 -  Direct Connect (Connect the On-premise and AWS directly for data transfer)
 
 -  Import / Export (Using AWS tools to dump and load the data)
-<img src="C:/Saurabh/Learning/Data_Engineering\data-integration-aws.png" alt="Data-Integration-AWS"/>
+<img src = "https://user-images.githubusercontent.com/67065902/97900386-90ba3b80-1d08-11eb-8d2b-74b530f6aec2.png" />
 
 Note: We will use the cloud native intergration approach for this sample project:
 
 ## Native Integration: Loading the Data directly from S3 to Redshift
-<img src="C:/Saurabh/Learning/Data_Engineering\data-integration-aws.png" alt="Data-Integration-AWS"/>
+<img src="https://user-images.githubusercontent.com/67065902/97900464-a7609280-1d08-11eb-9914-41caacac6eb4.png"/>
 
 # Steps:
 Note: This is a sample project, actual project includes a lot more additional small steps in process.
