@@ -94,4 +94,18 @@ Import:
     
 Once the Data Integration is successful, you will be able to see the results on Redshift, by simpling using sql queries.
 
+### Additional Step for BI / Data Analytics
 
+    Extract the result output from Redshift, Import the file to Microsoft Power BI, and perform the DAX.
+    
+    or
+    
+    Open Tableau.
+    
+    Connect to Redshift cluster and database.
+    
+    Pull the tables.
+    
+    Perform the BI operations. Like below:
+    
+<img src="https://user-images.githubusercontent.com/67065902/98997505-9aab1e00-2502-11eb-95d5-356c0a1ad7d6.png" />
